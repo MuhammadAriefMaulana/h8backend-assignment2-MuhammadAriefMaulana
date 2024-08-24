@@ -1,0 +1,1 @@
+tidak pakai hashing karena bcrypt nya tidak bisa dijalankan dilaptop kantor (terkena carbon black punya tim security).
